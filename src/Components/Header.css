@@ -1,0 +1,22 @@
+.nav-bar {
+    /* background-color: black */
+    position: fixed;
+    font-family: "Gabarito";
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
+
+.logo-text {
+    margin-left: 10px;
+    font-size: 40px;
+}
+
+.red-text {
+    color: #E50914;
+}
+.white-text{
+    color:white;
+}

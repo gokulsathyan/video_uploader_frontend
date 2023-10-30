@@ -1,0 +1,45 @@
+.history-link {
+    text-decoration: none;
+    font-size: 20px;
+    color: #E50914;
+}
+
+.history-link:hover {
+    color: white;
+}
+
+.show-img {
+    border: 5px solid black;
+    border-radius: 50%;
+    width: 50%;
+    height: 50%;
+}
+
+.upload-button {
+    width: 100%;
+    height: 50px;
+    background-color: black !important;
+    color: #E50914 !important;
+    border: 1px solid #E50914 !important;
+    font-size: 20px;
+}
+
+.upload-button:hover {
+    background-color: rgb(56, 54, 54) !important;
+}
+
+.form-button {
+    background-color: black !important;
+    color: #E50914 !important;
+    border: 1px solid #E50914 !important;
+    font-size: 20px;
+}
+
+.category-button {
+    width: 50%;
+    height: 50px;
+    background-color: black !important;
+    color: #E50914 !important;
+    border: 1px solid #E50914 !important;
+    font-size: 20px;
+}
